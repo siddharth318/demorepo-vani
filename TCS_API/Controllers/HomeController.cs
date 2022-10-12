@@ -21,7 +21,7 @@ namespace TCS_API.Controllers
             try
             {
                 
-                hotels.Add(new Hotel() { HotelID = 1, HotelName = "Taj", CostPerDay = 20000 });
+                hotels.Add(new Hotel() { HotelID = 10, HotelName = "Taj", CostPerDay = 20000 });
                 hotels.Add(new Hotel() { HotelID = 2, HotelName = "Milan", CostPerDay = 21000 });
                 hotels.Add(new Hotel() { HotelID = 3, HotelName = "Stay Inn", CostPerDay = 15000 });
 
